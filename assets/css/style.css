@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Bungee+Shade');
+header {
+	background-image: url("../images/bg2.jpg");
+	background-size: 100% 100%;
+	color: white;
+}
+
+h1 {
+	font-size: 75px;
+	letter-spacing: 5px;
+	font-family: 'Bungee Shade', cursive;
+}
+
+p {
+	font-family: 'Anton', sans-serif;
+}
+.header-text {
+	font-size: 25px;
+	font-family: 'Anton', sans-serif;
+}
+
+#userInput {
+	width: 300px;
+	font-size: 13px;
+	padding: 0px 10px;
+	font-family: 'Anton', sans-serif;
+}
+.topic-input {
+	margin-top: 30px;
+}
+
+.btn {
+	margin: 0;
+	height: 30px;
+	font-size: 13px;
+	padding-top: 6px;
+	font-family: 'Anton', sans-serif;
+}
+
+.btn-outline-secondary {
+	margin: 5px;
+}
+
+.gifDiv {
+	margin-top: 10px;
+	margin-bottom: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
